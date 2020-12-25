@@ -1,0 +1,10 @@
+class Test
+{
+  public static void main(String a[])
+  {     
+     String str = "This is an example string.";
+     System.out.println(str.("This"));
+     System.out.println(str.startsWith("is"));
+     System.out.println(str.startsWith("is", 5));
+    }
+}
